@@ -111,24 +111,10 @@ print("Random Texture:", run_graycoprops(glcm_random))
 - **Periodic textures** exhibit structured repetition, leading to distinct correlation values.
 - **Circuit (Mixed) textures** have features that blend characteristics of multiple categories.
 
-## Future Improvements
-
-- Implement different distance and angle values for GLCM computation.
-- Apply machine learning models to classify textures based on extracted features.
-- Extend the dataset to include more texture variations.
-
-## Contributing
-
-Feel free to fork this repository and improve upon the project! If you have suggestions or find issues, open an issue or submit a pull request.
-
-## License
-
-This project is open-source under the **MIT License**.
-
 ---
 
-📌 **Author:** [Your Name]\
-📌 **Contact:** [Your Email or GitHub Profile]\
+📌 **Author:** [Arian Fathi]\
+📌 **Contact:** [Arian.fathi03@gmail.com]\
 📌 **Keywords:** Texture Analysis, GLCM, Image Processing, Python, skimage, Matplotlib
 
 
